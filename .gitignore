@@ -3,6 +3,23 @@ node_modules
 .c9
 .DS_Store
 Thumbs.db
+.bash_aliases
+.bash_logout
+.bashrc
+.cache/
+.gemrc
+.gitconfig
+.gnupg/
+.heroku/
+.hgrc
+.local/
+.npmrc
+.nvm/
+.profile
+.profileE
+.ssh/
+.viminfo
+sessions/
 
 # C/C++
 *.slo
